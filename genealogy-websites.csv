@@ -1,0 +1,20 @@
+Website,Stars,Comment,Example link
+DBpedia                 ,★★★★★,RDF and all kinds of serializations of the RDF data model,https://dbpedia.org/page/J._R._R._Tolkien
+Billion Graves          ,★★★★☆,Microdata + schema.org,https://billiongraves.com/grave/ANTONIA-WI%C4%98CH/11529550
+FamilySearch            ,★★★★☆,GedcomX; Getting a GedcomX response requires a special HTTP request header,https://www.familysearch.org/ark:/61903/1:1:K4R2-GQ9
+Find a Grave            ,★★★★☆,Microdata + schema.org,https://www.findagrave.com/memorial/169370527/alex-a.-wiech
+Geni                    ,★★★★☆,Microdata + schema.org,https://www.geni.com/people/Stanis%C5%82aw-Wo%C5%BAniak/6000000060119178969
+WeRelate                ,★★☆★★,Custom data format; Links to external websites are stored as source citations,https://www.werelate.org/wiki/Person:Samuel_Horsfall_%281%29
+WikiTree                ,★★★★☆,Microdata + schema.org; Links to other sites are embedded in a free-text field,https://www.wikitree.com/wiki/Clemens-1
+Graves in Belarus       ,★★★☆☆,Open Graph,http://www.graves.by/pins/d3173b1b4513f397.html
+MyHeritage record       ,★★☆☆☆,Custom HTML properties,https://www.myheritage.com/research/collection-10171/rejestr-urodze%C5%84-w-piotrkowie-trybunalskim-polska-1808-1875?itemId=7540-F&action=showRecord
+webtrees                ,★☆☆★☆,,https://dev.webtrees.net/demo-stable/index.php?route=%2Fdemo-stable%2Ftree%2Fdemo%2Findividual%2FI10090%2FElizabeth-Angela-Marguerite-Bowes-Lyon
+FreeBMD                 ,★☆☆☆☆,,https://www.freebmd.org.uk/cgi/information.pl?cite=UZgs5TDvhf%2FMVcQZKkuU5Q&scan=1
+FreeCen                 ,★☆☆☆☆,,https://www.freecen.org.uk/search_records/59055b2de9379091b13b29d7/john-nowakowski-1891-sussex-steyning-1851-
+FreeReg                 ,★☆☆☆☆,,https://www.freereg.org.uk/search_records/5817ac7de93790eb7f5d69a6/mary-turney-abell-london-marriage-buckinghamshire-cheddington-1701-04-27
+sejm-wielki.pl          ,★☆☆☆☆,,http://www.sejm-wielki.pl/b/psb.20874.1
+Szukaj w archiwach      ,★☆☆☆☆,Open Graph annotations,https://www.szukajwarchiwach.gov.pl/jednostka/-/jednostka/9743252
+TNG                     ,★☆☆☆☆,There is an option that can be turned on to enable downloading a GEDCOM file,https://genealogiapolska.pl/getperson.php?personID=I10013&tree=Wojtalik
+Zielona Góra — cmentarze,★☆☆☆☆,,http://www.mzp.pl/wyszukiwarka-grobow/szczegoly/11556
+Geneteka                ,☆☆☆☆★,link to search results but not individual records from the results. The records may contain links to scans hosted on other websites.,https://geneteka.genealodzy.pl/index.php?op=gt&lang=pol&bdm=B&w=07mz&rid=B&search_lastname=wi%C4%99ch&search_name=stanis%C5%82aw&search_lastname2=&search_name2=&from_date=1880&to_date=1890&exac=1&parents=1
+straty.pl               ,☆☆☆☆☆,Unique URLs are not available on the website but can be provided by an external service,https://pewu.github.io/stratypl-link?1551543
